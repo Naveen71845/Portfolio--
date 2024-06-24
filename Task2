@@ -40,7 +40,7 @@
       <h2 class="section__header">About Me</h2>
       <div class="about__content">
         <p>
-          Hi, I'm KUMARESAN C, a aspiring full stack developer with a passion for creating
+          Hi, I'm NAVEENPRASANTH V, a aspiring full stack developer with a passion for creating
           modern and responsive websites. I'm currently learning front-end development
           using HTML, CSS, and JavaScript. With a keen eye for design and
           attention to detail, I strive to deliver intuitive user experiences.
@@ -58,8 +58,8 @@
                 <p>
               
                   ->Prevention of road accident in built corners - 2022 <br>
-                  ->Home security - 2022 <br>
-                  ->Prevention of road accident - 2023
+                  ->MODERN BUS SYSTEM - 2022 <br>
+                  ->FOOD MSKER- 2023
                 
                 </p>
             </div>
@@ -68,7 +68,7 @@
                 <span><i class="ri-run-line"></i></span>
                 <h4>Certificate</h4>
                 <p>
-                -> Attended a IOT workshop (IIT MADRAS) <br>
+                -> Attended a Boot camo(KGISL) <br>
                 ->Attended a Boot camp (SNSCT) <br>
                 ->7+ Tie events
               </p>
@@ -91,13 +91,13 @@
           
           <div class="footer__socials">
             
-            <a href="https://www.linkedin.com/in/kumaresan-c/">
+            <a href="https:///https://www.linkedin.com/in/naveen-prasanth-v-">
               <ion-icon name="logo-linkedin"></ion-icon>
             </a>
-            <a href="https://github.com/Kumaresan-16">
+            <a href="https://https://github.com/Naveen71845/">
               <ion-icon name="logo-github"></ion-icon>
             </a>
-            <a href="kumaresan.c.cse.2022@snsct.org"><ion-icon name="mail-outline"></ion-icon>
+            <a href="naveen.v.cse.2022@snsct.org"><ion-icon name="mail-outline"></ion-icon>
                 
             </a>
           </div>
@@ -106,9 +106,9 @@
        
         <div id="contact" class="footer__col">
             <h4>Contact</h4>
-            <a href="#">kumaresan.c.cse.2022@snsct.org</a>
-            <a href="#">https://www.linkedin.com/in/kumaresan-c</a>
-            <a href="#">https://https://github.com/Kumaresan-16</a>
+            <a href="#">naveen.v.cse.2022@snsct.org</a>
+            <a href="#">https://https://www.linkedin.com/in/naveen-prasanth-v-</a>
+            <a href="#">https://https://https://github.com/Naveen71845/</a>
         </div>
         <div id="skills" class="footer__col">
             <h4> Skills </h4>
